@@ -29,8 +29,8 @@ function clone {
 
 function openBrowser {
     print "Opening Chrome Tabs..."
-    open -a Google\ Chrome "http://launch.adobe.com/"
     open -a Google\ Chrome "http://alloyio.com:8080"
+    open -a Google\ Chrome "http://launch.adobe.com/"
 }
 
 function start {
